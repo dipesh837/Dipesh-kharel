@@ -26,11 +26,26 @@
              <label for="Math"> Math </label>
              <input type="checkbox" name="subject" id="Science" value="Science" >
             <label for="Science"> Science </label>
-        
-        </div>
-
-
-        <button>submit</button>
+         </div>
+         <div>
+            Choose Profession :
+            <select name="profession" id="profession">
+                <option>Select profession</option>
+                <option value="Student"> Student </option>
+                <option value="Developer"> Developer</option>
+            </select>
+             </div>
+             <div>
+             <label for="volume" > Select your volume level : </label>
+                <input type="range" id="volume" min="0" max="100" name="volume" step="10" >
+            </label>
+             </div>
+             <br>
+             <div>
+                <label for="Feedback" > Provide your Feedback </label>
+                <textarea id="Feedback" name="Feedback" placeholder="write your feedback" rows="10" cols="50"> </textarea>
+            </div>
+            <button>submit</button>
 
     </form>
 </body>
