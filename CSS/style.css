@@ -1,5 +1,15 @@
-     h2{
-            color:#0000ff;
-           background-color: #000000;
+     h1{
+         text-align: center;
+         text-decoration: dotted underline;
+       
         }
-    
+    h3{
+         text-align: start;
+         text-decoration: wavy line-through;
+    }
+    h2{
+      font-weight: 400;
+    }
+    p{
+      font-weight: 300;
+    }
