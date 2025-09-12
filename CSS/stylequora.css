@@ -6,3 +6,10 @@
 h1 , h3{
     color: #f52936;
 }
+#login{
+    background-color: whitesmoke;
+}
+#signup{
+    color: white;
+    background-color: #f52936;
+}
