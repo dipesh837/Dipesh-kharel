@@ -11,5 +11,13 @@ h1 , h3{
 }
 #signup{
     color: white;
+ 
     background-color: #f52936;
+}
+.upvote{
+    color: red;
+}
+div[id="myid"] p {
+    color: green
+
 }
