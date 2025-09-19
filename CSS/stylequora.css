@@ -38,3 +38,12 @@ p+h3{
     color: darkblue;
 
 }
+div>input{
+    background-color: orangered;
+}
+input[type="text"]{
+    color: violet;
+}
+input[type="password"]{
+    color: blue;
+}
