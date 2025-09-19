@@ -16,6 +16,7 @@ h1 , h3{
 }
 .upvote{
     color: green;
+    background-color: greenyellow
 }
 div[id="myid"] p {
     color: green
@@ -28,4 +29,12 @@ div[id="myid"] p {
 }
 nav ul li a{
     color: hotpink;
+}
+p+h3{
+    text-decoration: underline;
+}
+.upvote+button{
+    background-color: cornflowerblue;
+    color: darkblue;
+
 }
