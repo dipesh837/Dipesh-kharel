@@ -46,5 +46,15 @@ input[type="text"]{
 }
 input[type="password"]{
     color: blue;
-    background-color: aliceblue;
+   
+}
+button:hover {
+    color: white;
+    background-color: black;
+}
+h3:hover{
+    text-decoration: none;
+}
+button:active{
+    background-color: hotpink;
 }
