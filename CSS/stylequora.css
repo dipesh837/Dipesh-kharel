@@ -58,3 +58,15 @@ h3:hover{
 button:active{
     background-color: hotpink;
 }
+p:active{
+    font-weight: bold;
+    color: green;
+}
+input[type="radio"]:checked + label{
+    color: red;
+    font-weight: bold;
+
+}
+div:nth-of-type(2) {
+    background-color: blanchedalmond;
+}
