@@ -70,3 +70,13 @@ input[type="radio"]:checked + label{
 div:nth-of-type(2) {
     background-color: blanchedalmond;
 }
+h1::first-letter{
+    color: black;
+}
+p::first-line{
+    color:blue;
+}
+p::selection{
+    background-color: rgb(176, 179, 20); 
+}
+
