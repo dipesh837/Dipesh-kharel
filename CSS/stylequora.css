@@ -35,7 +35,7 @@ p+h3{
 }
 .upvote+button{
     background-color: cornflowerblue;
-    color: darkblue;
+    color: black;
 
 }
 div>input{
@@ -79,4 +79,5 @@ p::first-line{
 p::selection{
     background-color: rgb(176, 179, 20); 
 }
+
 
