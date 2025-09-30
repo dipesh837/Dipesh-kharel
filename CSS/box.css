@@ -1,0 +1,15 @@
+div{
+    height: 200px;
+    width: 500px;
+    background-color: red;        
+    /*border-width: 12px;
+    border-style: solid; 
+    border-color: black; */
+    border:  12px solid yellow ;
+    border-left: blueviolet;
+    border-left-style:dashed ;
+}
+h1{
+    
+    border: 2px dashed pink;
+}
